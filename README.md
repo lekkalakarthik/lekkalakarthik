@@ -1,5 +1,7 @@
 Hi there, I'm Karthik Lekkala 👋
+
 Glad to see you here!
+
 🔭 I work on Azure, AWS, and OCI cloud, as well as CI/CD and DevOps technologies.
 🌱 I’m currently learning DevSecOps (including security into the DevOps culture), Security tools & concepts
 👯 I’m looking to collaborate on Open-Source Projects
